@@ -10,6 +10,6 @@ public class GreeterTest {
 
         String greeting = greeter.sayHello();
 
-        assertEquals("Hello World!", greeting);
+        assertEquals("Hello Brights!", greeting);
     }
 }
